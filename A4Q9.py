@@ -1,0 +1,5 @@
+r = range(5)
+print(r)
+print(list(r))
+t = range(1,10)
+print(list(t))
